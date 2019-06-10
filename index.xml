@@ -9,39 +9,39 @@
         <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Browser Support Linux</title>
+      <title>Video Player Linux</title>
+      <link>http://example.org/post/video-player-linux/</link>
+      <pubDate>Mon, 10 Jun 2019 13:08:48 +0700</pubDate>
+      
+      <guid>http://example.org/post/video-player-linux/</guid>
+      <description></description>
+    </item><item>
+      <title>Instal Aplikasi via Snap</title>
+      <link>http://example.org/post/instal-aplikasi-via-snap/</link>
+      <pubDate>Mon, 10 Jun 2019 11:55:18 +0700</pubDate>
+      
+      <guid>http://example.org/post/instal-aplikasi-via-snap/</guid>
+      <description></description>
+    </item><item>
+      <title>Vscode Linux</title>
+      <link>http://example.org/post/vscode-linux/</link>
+      <pubDate>Mon, 10 Jun 2019 11:54:07 +0700</pubDate>
+      
+      <guid>http://example.org/post/vscode-linux/</guid>
+      <description></description>
+    </item><item>
+      <title>Perintah Linux Yang Patut Diingat</title>
+      <link>http://example.org/post/perintah-linux-yang-patut-diingat/</link>
+      <pubDate>Mon, 10 Jun 2019 11:41:59 +0700</pubDate>
+      
+      <guid>http://example.org/post/perintah-linux-yang-patut-diingat/</guid>
+      <description></description>
+    </item><item>
+      <title>Web Browser yang Cocok di Linux</title>
       <link>http://example.org/post/browser-support-linux/</link>
       <pubDate>Sun, 09 Jun 2019 14:36:51 +0700</pubDate>
       
       <guid>http://example.org/post/browser-support-linux/</guid>
-      <description></description>
-    </item><item>
-      <title>Mempercantik Tampilan Xubuntu 18</title>
-      <link>http://example.org/post/mempercantik-tampilan-xubuntu-18.04/</link>
-      <pubDate>Sun, 09 Jun 2019 14:34:54 +0700</pubDate>
-      
-      <guid>http://example.org/post/mempercantik-tampilan-xubuntu-18.04/</guid>
-      <description></description>
-    </item><item>
-      <title>Penjelasan Singkat Partisi Linux</title>
-      <link>http://example.org/post/penjelasan-singkat-partisi-linux/</link>
-      <pubDate>Sun, 09 Jun 2019 14:33:17 +0700</pubDate>
-      
-      <guid>http://example.org/post/penjelasan-singkat-partisi-linux/</guid>
-      <description></description>
-    </item><item>
-      <title>File Manager Di Linux</title>
-      <link>http://example.org/post/file-manager-di-linux/</link>
-      <pubDate>Sun, 09 Jun 2019 14:32:23 +0700</pubDate>
-      
-      <guid>http://example.org/post/file-manager-di-linux/</guid>
-      <description></description>
-    </item><item>
-      <title>Review Xubuntu 18</title>
-      <link>http://example.org/post/review-xubuntu-18.04/</link>
-      <pubDate>Sun, 09 Jun 2019 14:31:53 +0700</pubDate>
-      
-      <guid>http://example.org/post/review-xubuntu-18.04/</guid>
       <description></description>
     </item>
   </channel>

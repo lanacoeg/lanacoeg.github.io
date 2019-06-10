@@ -3,14 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/post/browser-support-linux/</loc>
-    <lastmod>2019-06-09T14:36:51+07:00</lastmod>
+    <loc>http://example.org/post/</loc>
+    <lastmod>2019-06-10T13:08:48+07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
+    <loc>http://example.org/post/video-player-linux/</loc>
+    <lastmod>2019-06-10T13:08:48+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/instal-aplikasi-via-snap/</loc>
+    <lastmod>2019-06-10T11:55:18+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/vscode-linux/</loc>
+    <lastmod>2019-06-10T11:54:07+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/perintah-linux-yang-patut-diingat/</loc>
+    <lastmod>2019-06-10T11:41:59+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/browser-support-linux/</loc>
     <lastmod>2019-06-09T14:36:51+07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -90,7 +110,7 @@
   
   <url>
     <loc>http://example.org/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <lastmod>2017-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
