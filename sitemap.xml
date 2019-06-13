@@ -3,9 +3,99 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://example.org/post/alternatif/</loc>
+    <lastmod>2019-06-13T07:58:48+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/post/</loc>
-    <lastmod>2019-06-10T13:08:48+07:00</lastmod>
+    <lastmod>2019-06-13T07:58:48+07:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/ukuu/</loc>
+    <lastmod>2019-06-13T07:48:48+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/vectr/</loc>
+    <lastmod>2019-06-12T22:19:48+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/krita/</loc>
+    <lastmod>2019-06-12T22:19:42+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/pasang-installer-di-ubuntu-18.04-ke-atas/</loc>
+    <lastmod>2019-06-12T22:19:23+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/snap-store/</loc>
+    <lastmod>2019-06-12T22:18:16+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/download-manager/</loc>
+    <lastmod>2019-06-11T22:11:13+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/tilix/</loc>
+    <lastmod>2019-06-11T22:10:51+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/material-design/</loc>
+    <lastmod>2019-06-11T22:10:36+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/messenger/</loc>
+    <lastmod>2019-06-11T22:10:03+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/telegram/</loc>
+    <lastmod>2019-06-11T22:09:51+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/review-xubuntu-19.10/</loc>
+    <lastmod>2019-06-11T22:09:07+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/review-kodi/</loc>
+    <lastmod>2019-06-11T22:08:56+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/font-coding/</loc>
+    <lastmod>2019-06-11T22:08:22+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/aplikasi-yang-bikin-kita-makin-produktif/</loc>
+    <lastmod>2019-06-11T22:07:59+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/bluelight-filter/</loc>
+    <lastmod>2019-06-11T22:07:28+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/kernel-manager/</loc>
+    <lastmod>2019-06-11T22:07:14+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/sublime-text/</loc>
+    <lastmod>2019-06-11T21:55:38+07:00</lastmod>
   </url>
   
   <url>

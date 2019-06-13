@@ -4,44 +4,44 @@
     <link>http://example.org/post/</link>
     <description>Recent content in Posts on Home - lalinux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 10 Jun 2019 13:08:48 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2019 07:58:48 +0700</lastBuildDate>
     
         <atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Mempercantik Tampilan Xubuntu 18</title>
-      <link>http://example.org/post/mempercantik-tampilan-xubuntu-18.04/</link>
-      <pubDate>Sun, 09 Jun 2019 14:34:54 +0700</pubDate>
+      <title>Snap Store</title>
+      <link>http://example.org/post/snap-store/</link>
+      <pubDate>Wed, 12 Jun 2019 22:18:16 +0700</pubDate>
       
-      <guid>http://example.org/post/mempercantik-tampilan-xubuntu-18.04/</guid>
+      <guid>http://example.org/post/snap-store/</guid>
       <description></description>
     </item><item>
-      <title>Penjelasan Singkat Partisi Linux</title>
-      <link>http://example.org/post/penjelasan-singkat-partisi-linux/</link>
-      <pubDate>Sun, 09 Jun 2019 14:33:17 +0700</pubDate>
+      <title>Download Manager</title>
+      <link>http://example.org/post/download-manager/</link>
+      <pubDate>Tue, 11 Jun 2019 22:11:13 +0700</pubDate>
       
-      <guid>http://example.org/post/penjelasan-singkat-partisi-linux/</guid>
+      <guid>http://example.org/post/download-manager/</guid>
       <description></description>
     </item><item>
-      <title>File Manager Di Linux</title>
-      <link>http://example.org/post/file-manager-di-linux/</link>
-      <pubDate>Sun, 09 Jun 2019 14:32:23 +0700</pubDate>
+      <title>Tilix</title>
+      <link>http://example.org/post/tilix/</link>
+      <pubDate>Tue, 11 Jun 2019 22:10:51 +0700</pubDate>
       
-      <guid>http://example.org/post/file-manager-di-linux/</guid>
+      <guid>http://example.org/post/tilix/</guid>
       <description></description>
     </item><item>
-      <title>Review Xubuntu 18</title>
-      <link>http://example.org/post/review-xubuntu-18.04/</link>
-      <pubDate>Sun, 09 Jun 2019 14:31:53 +0700</pubDate>
+      <title>Material Design</title>
+      <link>http://example.org/post/material-design/</link>
+      <pubDate>Tue, 11 Jun 2019 22:10:36 +0700</pubDate>
       
-      <guid>http://example.org/post/review-xubuntu-18.04/</guid>
+      <guid>http://example.org/post/material-design/</guid>
       <description></description>
     </item><item>
-      <title>Window Manager Linux</title>
-      <link>http://example.org/post/window-manager-linux/</link>
-      <pubDate>Sun, 09 Jun 2019 11:43:25 +0700</pubDate>
+      <title>Messenger</title>
+      <link>http://example.org/post/messenger/</link>
+      <pubDate>Tue, 11 Jun 2019 22:10:03 +0700</pubDate>
       
-      <guid>http://example.org/post/window-manager-linux/</guid>
+      <guid>http://example.org/post/messenger/</guid>
       <description></description>
     </item>
   </channel>

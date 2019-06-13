@@ -9,39 +9,39 @@
         <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Virtualbox</title>
-      <link>http://example.org/post/virtualbox/</link>
-      <pubDate>Sat, 08 Jun 2019 22:40:53 +0700</pubDate>
+      <title>Telegram</title>
+      <link>http://example.org/post/telegram/</link>
+      <pubDate>Tue, 11 Jun 2019 22:09:51 +0700</pubDate>
       
-      <guid>http://example.org/post/virtualbox/</guid>
+      <guid>http://example.org/post/telegram/</guid>
       <description></description>
     </item><item>
-      <title>Cara Install Chrome</title>
-      <link>http://example.org/post/cara-install-chrome/</link>
-      <pubDate>Sat, 08 Jun 2019 22:33:54 +0700</pubDate>
+      <title>Review Xubuntu 19</title>
+      <link>http://example.org/post/review-xubuntu-19.10/</link>
+      <pubDate>Tue, 11 Jun 2019 22:09:07 +0700</pubDate>
       
-      <guid>http://example.org/post/cara-install-chrome/</guid>
+      <guid>http://example.org/post/review-xubuntu-19.10/</guid>
       <description></description>
     </item><item>
-      <title>Yaru Theme</title>
-      <link>http://example.org/post/yaru-theme/</link>
-      <pubDate>Sat, 08 Jun 2019 22:30:44 +0700</pubDate>
+      <title>Review Kodi</title>
+      <link>http://example.org/post/review-kodi/</link>
+      <pubDate>Tue, 11 Jun 2019 22:08:56 +0700</pubDate>
       
-      <guid>http://example.org/post/yaru-theme/</guid>
+      <guid>http://example.org/post/review-kodi/</guid>
       <description></description>
     </item><item>
-      <title>Beberapa Desktop Env Yang Patut Dicoba </title>
-      <link>http://example.org/post/beberapa-desktop-env-yang-patut-dicoba-/</link>
-      <pubDate>Sat, 08 Jun 2019 22:04:48 +0700</pubDate>
+      <title>Font Coding</title>
+      <link>http://example.org/post/font-coding/</link>
+      <pubDate>Tue, 11 Jun 2019 22:08:22 +0700</pubDate>
       
-      <guid>http://example.org/post/beberapa-desktop-env-yang-patut-dicoba-/</guid>
+      <guid>http://example.org/post/font-coding/</guid>
       <description></description>
     </item><item>
-      <title>Kazam</title>
-      <link>http://example.org/post/kazam/</link>
-      <pubDate>Sat, 08 Jun 2019 21:59:04 +0700</pubDate>
+      <title>Aplikasi Yang Bikin Kita Makin Produktif</title>
+      <link>http://example.org/post/aplikasi-yang-bikin-kita-makin-produktif/</link>
+      <pubDate>Tue, 11 Jun 2019 22:07:59 +0700</pubDate>
       
-      <guid>http://example.org/post/kazam/</guid>
+      <guid>http://example.org/post/aplikasi-yang-bikin-kita-makin-produktif/</guid>
       <description></description>
     </item>
   </channel>

@@ -4,44 +4,44 @@
     <link>http://example.org/post/</link>
     <description>Recent content in Posts on Home - lalinux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 10 Jun 2019 13:08:48 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2019 07:58:48 +0700</lastBuildDate>
     
         <atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Video Player Linux</title>
-      <link>http://example.org/post/video-player-linux/</link>
-      <pubDate>Mon, 10 Jun 2019 13:08:48 +0700</pubDate>
+      <title>Alternatif</title>
+      <link>http://example.org/post/alternatif/</link>
+      <pubDate>Thu, 13 Jun 2019 07:58:48 +0700</pubDate>
       
-      <guid>http://example.org/post/video-player-linux/</guid>
+      <guid>http://example.org/post/alternatif/</guid>
       <description></description>
     </item><item>
-      <title>Instal Aplikasi via Snap</title>
-      <link>http://example.org/post/instal-aplikasi-via-snap/</link>
-      <pubDate>Mon, 10 Jun 2019 11:55:18 +0700</pubDate>
+      <title>Ukuu</title>
+      <link>http://example.org/post/ukuu/</link>
+      <pubDate>Thu, 13 Jun 2019 07:48:48 +0700</pubDate>
       
-      <guid>http://example.org/post/instal-aplikasi-via-snap/</guid>
+      <guid>http://example.org/post/ukuu/</guid>
       <description></description>
     </item><item>
-      <title>Vscode Linux</title>
-      <link>http://example.org/post/vscode-linux/</link>
-      <pubDate>Mon, 10 Jun 2019 11:54:07 +0700</pubDate>
+      <title>Vectr</title>
+      <link>http://example.org/post/vectr/</link>
+      <pubDate>Wed, 12 Jun 2019 22:19:48 +0700</pubDate>
       
-      <guid>http://example.org/post/vscode-linux/</guid>
+      <guid>http://example.org/post/vectr/</guid>
       <description></description>
     </item><item>
-      <title>Perintah Linux Yang Patut Diingat</title>
-      <link>http://example.org/post/perintah-linux-yang-patut-diingat/</link>
-      <pubDate>Mon, 10 Jun 2019 11:41:59 +0700</pubDate>
+      <title>Krita</title>
+      <link>http://example.org/post/krita/</link>
+      <pubDate>Wed, 12 Jun 2019 22:19:42 +0700</pubDate>
       
-      <guid>http://example.org/post/perintah-linux-yang-patut-diingat/</guid>
+      <guid>http://example.org/post/krita/</guid>
       <description></description>
     </item><item>
-      <title>Web Browser yang Cocok di Linux</title>
-      <link>http://example.org/post/browser-support-linux/</link>
-      <pubDate>Sun, 09 Jun 2019 14:36:51 +0700</pubDate>
+      <title>Pasang Installer Di Ubuntu 18</title>
+      <link>http://example.org/post/pasang-installer-di-ubuntu-18.04-ke-atas/</link>
+      <pubDate>Wed, 12 Jun 2019 22:19:23 +0700</pubDate>
       
-      <guid>http://example.org/post/browser-support-linux/</guid>
+      <guid>http://example.org/post/pasang-installer-di-ubuntu-18.04-ke-atas/</guid>
       <description></description>
     </item>
   </channel>
