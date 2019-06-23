@@ -1,47 +1,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>lalinux - Home - lalinux</title>
-    <link>http://example.org/</link>
+    <link>http://www.lalinux.net;ify.com/</link>
     <description>Recent content in lalinux on Home - lalinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 27 Apr 2018 09:46:15 -0400</lastBuildDate>
     
-        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://www.lalinux.net;ify.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Download Manager</title>
-      <link>http://example.org/post/download-manager/</link>
+      <link>http://www.lalinux.net;ify.com/post/download-manager/</link>
       <pubDate>Tue, 11 Jun 2019 22:11:13 +0700</pubDate>
       
-      <guid>http://example.org/post/download-manager/</guid>
+      <guid>http://www.lalinux.net;ify.com/post/download-manager/</guid>
       <description></description>
     </item><item>
       <title>Tilix, Terminal Emulator Intuitif</title>
-      <link>http://example.org/post/tilix/</link>
+      <link>http://www.lalinux.net;ify.com/post/tilix/</link>
       <pubDate>Tue, 11 Jun 2019 22:10:51 +0700</pubDate>
       
-      <guid>http://example.org/post/tilix/</guid>
+      <guid>http://www.lalinux.net;ify.com/post/tilix/</guid>
       <description></description>
     </item><item>
       <title>Material Design</title>
-      <link>http://example.org/post/material-design/</link>
+      <link>http://www.lalinux.net;ify.com/post/material-design/</link>
       <pubDate>Tue, 11 Jun 2019 22:10:36 +0700</pubDate>
       
-      <guid>http://example.org/post/material-design/</guid>
+      <guid>http://www.lalinux.net;ify.com/post/material-design/</guid>
       <description></description>
     </item><item>
       <title>Messenger</title>
-      <link>http://example.org/post/messenger/</link>
+      <link>http://www.lalinux.net;ify.com/post/messenger/</link>
       <pubDate>Tue, 11 Jun 2019 22:10:03 +0700</pubDate>
       
-      <guid>http://example.org/post/messenger/</guid>
+      <guid>http://www.lalinux.net;ify.com/post/messenger/</guid>
       <description></description>
     </item><item>
       <title>Telegram</title>
-      <link>http://example.org/post/telegram/</link>
+      <link>http://www.lalinux.net;ify.com/post/telegram/</link>
       <pubDate>Tue, 11 Jun 2019 22:09:51 +0700</pubDate>
       
-      <guid>http://example.org/post/telegram/</guid>
+      <guid>http://www.lalinux.net;ify.com/post/telegram/</guid>
       <description></description>
     </item>
   </channel>

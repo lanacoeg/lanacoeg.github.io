@@ -1,47 +1,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts - Home - lalinux</title>
-    <link>http://example.org/post/</link>
+    <link>http://www.lalinux.net;ify.com/post/</link>
     <description>Recent content in Posts on Home - lalinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 18 Jun 2019 22:00:54 +0700</lastBuildDate>
     
-        <atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://www.lalinux.net;ify.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Linux Untuk Pemula</title>
-      <link>http://example.org/post/linux-untuk-pemula/</link>
+      <link>http://www.lalinux.net;ify.com/post/linux-untuk-pemula/</link>
       <pubDate>Tue, 18 Jun 2019 22:00:54 +0700</pubDate>
       
-      <guid>http://example.org/post/linux-untuk-pemula/</guid>
+      <guid>http://www.lalinux.net;ify.com/post/linux-untuk-pemula/</guid>
       <description></description>
     </item><item>
       <title>5 Distro Terbaik</title>
-      <link>http://example.org/post/5-distro-terbaik/</link>
+      <link>http://www.lalinux.net;ify.com/post/5-distro-terbaik/</link>
       <pubDate>Tue, 18 Jun 2019 22:00:18 +0700</pubDate>
       
-      <guid>http://example.org/post/5-distro-terbaik/</guid>
+      <guid>http://www.lalinux.net;ify.com/post/5-distro-terbaik/</guid>
       <description></description>
     </item><item>
       <title>Installer</title>
-      <link>http://example.org/post/installer/</link>
+      <link>http://www.lalinux.net;ify.com/post/installer/</link>
       <pubDate>Tue, 18 Jun 2019 21:59:35 +0700</pubDate>
       
-      <guid>http://example.org/post/installer/</guid>
+      <guid>http://www.lalinux.net;ify.com/post/installer/</guid>
       <description></description>
     </item><item>
       <title>DHCP Dan DNS Server Pada Debian</title>
-      <link>http://example.org/post/dhcp-dan-dns-server-pada-debian/</link>
+      <link>http://www.lalinux.net;ify.com/post/dhcp-dan-dns-server-pada-debian/</link>
       <pubDate>Sun, 16 Jun 2019 15:45:46 +0700</pubDate>
       
-      <guid>http://example.org/post/dhcp-dan-dns-server-pada-debian/</guid>
+      <guid>http://www.lalinux.net;ify.com/post/dhcp-dan-dns-server-pada-debian/</guid>
       <description></description>
     </item><item>
       <title>Alternatif</title>
-      <link>http://example.org/post/alternatif/</link>
+      <link>http://www.lalinux.net;ify.com/post/alternatif/</link>
       <pubDate>Thu, 13 Jun 2019 07:58:48 +0700</pubDate>
       
-      <guid>http://example.org/post/alternatif/</guid>
+      <guid>http://www.lalinux.net;ify.com/post/alternatif/</guid>
       <description></description>
     </item>
   </channel>
