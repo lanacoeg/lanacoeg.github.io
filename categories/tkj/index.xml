@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tkj - Home - lalinux</title>
-    <link>http://www.lalinux.net;ify.com/categories/tkj/</link>
+    <link>http://www.lalinux.netlify.com/categories/tkj/</link>
     <description>Recent content in tkj on Home - lalinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 16 Jun 2019 15:45:46 +0700</lastBuildDate>
     
-        <atom:link href="http://www.lalinux.net;ify.com/categories/tkj/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://www.lalinux.netlify.com/categories/tkj/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>DHCP Dan DNS Server Pada Debian</title>
-      <link>http://www.lalinux.net;ify.com/post/dhcp-dan-dns-server-pada-debian/</link>
+      <link>http://www.lalinux.netlify.com/post/dhcp-dan-dns-server-pada-debian/</link>
       <pubDate>Sun, 16 Jun 2019 15:45:46 +0700</pubDate>
       
-      <guid>http://www.lalinux.net;ify.com/post/dhcp-dan-dns-server-pada-debian/</guid>
+      <guid>http://www.lalinux.netlify.com/post/dhcp-dan-dns-server-pada-debian/</guid>
       <description></description>
     </item>
   </channel>

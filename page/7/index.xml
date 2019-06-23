@@ -1,47 +1,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>lalinux - Home - lalinux</title>
-    <link>http://www.lalinux.net;ify.com/</link>
+    <link>http://www.lalinux.netlify.com/</link>
     <description>Recent content in lalinux on Home - lalinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 27 Apr 2018 09:46:15 -0400</lastBuildDate>
     
-        <atom:link href="http://www.lalinux.net;ify.com/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://www.lalinux.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Window Manager Linux</title>
-      <link>http://www.lalinux.net;ify.com/post/window-manager-linux/</link>
+      <link>http://www.lalinux.netlify.com/post/window-manager-linux/</link>
       <pubDate>Sun, 09 Jun 2019 11:43:25 +0700</pubDate>
       
-      <guid>http://www.lalinux.net;ify.com/post/window-manager-linux/</guid>
+      <guid>http://www.lalinux.netlify.com/post/window-manager-linux/</guid>
       <description></description>
     </item><item>
       <title>Virtualbox</title>
-      <link>http://www.lalinux.net;ify.com/post/virtualbox/</link>
+      <link>http://www.lalinux.netlify.com/post/virtualbox/</link>
       <pubDate>Sat, 08 Jun 2019 22:40:53 +0700</pubDate>
       
-      <guid>http://www.lalinux.net;ify.com/post/virtualbox/</guid>
+      <guid>http://www.lalinux.netlify.com/post/virtualbox/</guid>
       <description></description>
     </item><item>
       <title>Install Chrome di Ubuntu</title>
-      <link>http://www.lalinux.net;ify.com/post/chrome/</link>
+      <link>http://www.lalinux.netlify.com/post/chrome/</link>
       <pubDate>Sat, 08 Jun 2019 22:33:54 +0700</pubDate>
       
-      <guid>http://www.lalinux.net;ify.com/post/chrome/</guid>
+      <guid>http://www.lalinux.netlify.com/post/chrome/</guid>
       <description></description>
     </item><item>
       <title>Yaru Theme</title>
-      <link>http://www.lalinux.net;ify.com/post/yaru-theme/</link>
+      <link>http://www.lalinux.netlify.com/post/yaru-theme/</link>
       <pubDate>Sat, 08 Jun 2019 22:30:44 +0700</pubDate>
       
-      <guid>http://www.lalinux.net;ify.com/post/yaru-theme/</guid>
+      <guid>http://www.lalinux.netlify.com/post/yaru-theme/</guid>
       <description></description>
     </item><item>
       <title>Beberapa Desktop Env Yang Patut Dicoba </title>
-      <link>http://www.lalinux.net;ify.com/post/beberapa-desktop-env-yang-patut-dicoba-/</link>
+      <link>http://www.lalinux.netlify.com/post/beberapa-desktop-env-yang-patut-dicoba-/</link>
       <pubDate>Sat, 08 Jun 2019 22:04:48 +0700</pubDate>
       
-      <guid>http://www.lalinux.net;ify.com/post/beberapa-desktop-env-yang-patut-dicoba-/</guid>
+      <guid>http://www.lalinux.netlify.com/post/beberapa-desktop-env-yang-patut-dicoba-/</guid>
       <description></description>
     </item>
   </channel>

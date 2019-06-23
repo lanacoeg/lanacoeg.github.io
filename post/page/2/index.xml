@@ -1,47 +1,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts - Home - lalinux</title>
-    <link>http://www.lalinux.net;ify.com/post/</link>
+    <link>http://www.lalinux.netlify.com/post/</link>
     <description>Recent content in Posts on Home - lalinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 18 Jun 2019 22:00:54 +0700</lastBuildDate>
     
-        <atom:link href="http://www.lalinux.net;ify.com/post/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://www.lalinux.netlify.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ukuu, Manajemen Kernel di Linux</title>
-      <link>http://www.lalinux.net;ify.com/post/ukuu/</link>
+      <link>http://www.lalinux.netlify.com/post/ukuu/</link>
       <pubDate>Thu, 13 Jun 2019 07:48:48 +0700</pubDate>
       
-      <guid>http://www.lalinux.net;ify.com/post/ukuu/</guid>
+      <guid>http://www.lalinux.netlify.com/post/ukuu/</guid>
       <description></description>
     </item><item>
       <title>Vectr</title>
-      <link>http://www.lalinux.net;ify.com/post/vectr/</link>
+      <link>http://www.lalinux.netlify.com/post/vectr/</link>
       <pubDate>Wed, 12 Jun 2019 22:19:48 +0700</pubDate>
       
-      <guid>http://www.lalinux.net;ify.com/post/vectr/</guid>
+      <guid>http://www.lalinux.netlify.com/post/vectr/</guid>
       <description></description>
     </item><item>
       <title>Krita</title>
-      <link>http://www.lalinux.net;ify.com/post/krita/</link>
+      <link>http://www.lalinux.netlify.com/post/krita/</link>
       <pubDate>Wed, 12 Jun 2019 22:19:42 +0700</pubDate>
       
-      <guid>http://www.lalinux.net;ify.com/post/krita/</guid>
+      <guid>http://www.lalinux.netlify.com/post/krita/</guid>
       <description></description>
     </item><item>
       <title>Pasang Installer Di Ubuntu 18</title>
-      <link>http://www.lalinux.net;ify.com/post/pasang-installer-di-ubuntu-18.04-ke-atas/</link>
+      <link>http://www.lalinux.netlify.com/post/pasang-installer-di-ubuntu-18.04-ke-atas/</link>
       <pubDate>Wed, 12 Jun 2019 22:19:23 +0700</pubDate>
       
-      <guid>http://www.lalinux.net;ify.com/post/pasang-installer-di-ubuntu-18.04-ke-atas/</guid>
+      <guid>http://www.lalinux.netlify.com/post/pasang-installer-di-ubuntu-18.04-ke-atas/</guid>
       <description></description>
     </item><item>
       <title>Snap Store</title>
-      <link>http://www.lalinux.net;ify.com/post/snap-store/</link>
+      <link>http://www.lalinux.netlify.com/post/snap-store/</link>
       <pubDate>Wed, 12 Jun 2019 22:18:16 +0700</pubDate>
       
-      <guid>http://www.lalinux.net;ify.com/post/snap-store/</guid>
+      <guid>http://www.lalinux.netlify.com/post/snap-store/</guid>
       <description></description>
     </item>
   </channel>

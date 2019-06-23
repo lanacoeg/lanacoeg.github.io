@@ -1,47 +1,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts - Home - lalinux</title>
-    <link>http://www.lalinux.net;ify.com/post/</link>
+    <link>http://www.lalinux.netlify.com/post/</link>
     <description>Recent content in Posts on Home - lalinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 18 Jun 2019 22:00:54 +0700</lastBuildDate>
     
-        <atom:link href="http://www.lalinux.net;ify.com/post/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://www.lalinux.netlify.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Kazam, Screen Recorder untuk Linux</title>
-      <link>http://www.lalinux.net;ify.com/post/kazam/</link>
+      <link>http://www.lalinux.netlify.com/post/kazam/</link>
       <pubDate>Sat, 08 Jun 2019 21:59:04 +0700</pubDate>
       
-      <guid>http://www.lalinux.net;ify.com/post/kazam/</guid>
+      <guid>http://www.lalinux.netlify.com/post/kazam/</guid>
       <description></description>
     </item><item>
       <title>Spotify</title>
-      <link>http://www.lalinux.net;ify.com/post/spotify/</link>
+      <link>http://www.lalinux.netlify.com/post/spotify/</link>
       <pubDate>Sat, 08 Jun 2019 21:53:19 +0700</pubDate>
       
-      <guid>http://www.lalinux.net;ify.com/post/spotify/</guid>
+      <guid>http://www.lalinux.netlify.com/post/spotify/</guid>
       <description></description>
     </item><item>
       <title>Clementine Music Player</title>
-      <link>http://www.lalinux.net;ify.com/post/clementine/</link>
+      <link>http://www.lalinux.netlify.com/post/clementine/</link>
       <pubDate>Sat, 08 Jun 2019 21:28:10 +0700</pubDate>
       
-      <guid>http://www.lalinux.net;ify.com/post/clementine/</guid>
+      <guid>http://www.lalinux.netlify.com/post/clementine/</guid>
       <description></description>
     </item><item>
       <title>WPS Office, software gratis pengganti Microsoft Office</title>
-      <link>http://www.lalinux.net;ify.com/post/wps-office/</link>
+      <link>http://www.lalinux.netlify.com/post/wps-office/</link>
       <pubDate>Sat, 08 Jun 2019 21:17:02 +0700</pubDate>
       
-      <guid>http://www.lalinux.net;ify.com/post/wps-office/</guid>
+      <guid>http://www.lalinux.netlify.com/post/wps-office/</guid>
       <description></description>
     </item><item>
       <title>Instalasi Xubuntu 18</title>
-      <link>http://www.lalinux.net;ify.com/post/instalasi-xubuntu/</link>
+      <link>http://www.lalinux.netlify.com/post/instalasi-xubuntu/</link>
       <pubDate>Sun, 12 May 2019 12:56:58 +0700</pubDate>
       
-      <guid>http://www.lalinux.net;ify.com/post/instalasi-xubuntu/</guid>
+      <guid>http://www.lalinux.netlify.com/post/instalasi-xubuntu/</guid>
       <description></description>
     </item>
   </channel>

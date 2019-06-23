@@ -1,47 +1,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>lalinux - Home - lalinux</title>
-    <link>http://www.lalinux.net;ify.com/</link>
+    <link>http://www.lalinux.netlify.com/</link>
     <description>Recent content in lalinux on Home - lalinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 27 Apr 2018 09:46:15 -0400</lastBuildDate>
     
-        <atom:link href="http://www.lalinux.net;ify.com/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://www.lalinux.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Sublime Text</title>
-      <link>http://www.lalinux.net;ify.com/post/sublime-text/</link>
+      <link>http://www.lalinux.netlify.com/post/sublime-text/</link>
       <pubDate>Tue, 11 Jun 2019 21:55:38 +0700</pubDate>
       
-      <guid>http://www.lalinux.net;ify.com/post/sublime-text/</guid>
+      <guid>http://www.lalinux.netlify.com/post/sublime-text/</guid>
       <description></description>
     </item><item>
       <title>Video Player Linux</title>
-      <link>http://www.lalinux.net;ify.com/post/video-lpayer/</link>
+      <link>http://www.lalinux.netlify.com/post/video-lpayer/</link>
       <pubDate>Mon, 10 Jun 2019 13:08:48 +0700</pubDate>
       
-      <guid>http://www.lalinux.net;ify.com/post/video-lpayer/</guid>
+      <guid>http://www.lalinux.netlify.com/post/video-lpayer/</guid>
       <description></description>
     </item><item>
       <title>Instal Aplikasi via Snap</title>
-      <link>http://www.lalinux.net;ify.com/post/instal-aplikasi-via-snap/</link>
+      <link>http://www.lalinux.netlify.com/post/instal-aplikasi-via-snap/</link>
       <pubDate>Mon, 10 Jun 2019 11:55:18 +0700</pubDate>
       
-      <guid>http://www.lalinux.net;ify.com/post/instal-aplikasi-via-snap/</guid>
+      <guid>http://www.lalinux.netlify.com/post/instal-aplikasi-via-snap/</guid>
       <description></description>
     </item><item>
       <title>Install Visual Studio Code di Ubuntu</title>
-      <link>http://www.lalinux.net;ify.com/post/vscode/</link>
+      <link>http://www.lalinux.netlify.com/post/vscode/</link>
       <pubDate>Mon, 10 Jun 2019 11:54:07 +0700</pubDate>
       
-      <guid>http://www.lalinux.net;ify.com/post/vscode/</guid>
+      <guid>http://www.lalinux.netlify.com/post/vscode/</guid>
       <description></description>
     </item><item>
       <title>Perintah Linux Yang Patut Diingat</title>
-      <link>http://www.lalinux.net;ify.com/post/perintah-linux-yang-patut-diingat/</link>
+      <link>http://www.lalinux.netlify.com/post/perintah-linux-yang-patut-diingat/</link>
       <pubDate>Mon, 10 Jun 2019 11:41:59 +0700</pubDate>
       
-      <guid>http://www.lalinux.net;ify.com/post/perintah-linux-yang-patut-diingat/</guid>
+      <guid>http://www.lalinux.netlify.com/post/perintah-linux-yang-patut-diingat/</guid>
       <description></description>
     </item>
   </channel>

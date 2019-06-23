@@ -1,33 +1,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories - Home - lalinux</title>
-    <link>http://www.lalinux.net;ify.com/categories/</link>
+    <link>http://www.lalinux.netlify.com/categories/</link>
     <description>Recent content in Categories on Home - lalinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 16 Jun 2019 15:45:46 +0700</lastBuildDate>
     
-        <atom:link href="http://www.lalinux.net;ify.com/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://www.lalinux.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>debian</title>
-      <link>http://www.lalinux.net;ify.com/categories/debian/</link>
+      <link>http://www.lalinux.netlify.com/categories/debian/</link>
       <pubDate>Sun, 16 Jun 2019 15:45:46 +0700</pubDate>
       
-      <guid>http://www.lalinux.net;ify.com/categories/debian/</guid>
+      <guid>http://www.lalinux.netlify.com/categories/debian/</guid>
       <description></description>
     </item><item>
       <title>server</title>
-      <link>http://www.lalinux.net;ify.com/categories/server/</link>
+      <link>http://www.lalinux.netlify.com/categories/server/</link>
       <pubDate>Sun, 16 Jun 2019 15:45:46 +0700</pubDate>
       
-      <guid>http://www.lalinux.net;ify.com/categories/server/</guid>
+      <guid>http://www.lalinux.netlify.com/categories/server/</guid>
       <description></description>
     </item><item>
       <title>tkj</title>
-      <link>http://www.lalinux.net;ify.com/categories/tkj/</link>
+      <link>http://www.lalinux.netlify.com/categories/tkj/</link>
       <pubDate>Sun, 16 Jun 2019 15:45:46 +0700</pubDate>
       
-      <guid>http://www.lalinux.net;ify.com/categories/tkj/</guid>
+      <guid>http://www.lalinux.netlify.com/categories/tkj/</guid>
       <description></description>
     </item>
   </channel>

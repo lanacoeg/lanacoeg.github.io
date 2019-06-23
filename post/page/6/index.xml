@@ -1,47 +1,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts - Home - lalinux</title>
-    <link>http://www.lalinux.net;ify.com/post/</link>
+    <link>http://www.lalinux.netlify.com/post/</link>
     <description>Recent content in Posts on Home - lalinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 18 Jun 2019 22:00:54 +0700</lastBuildDate>
     
-        <atom:link href="http://www.lalinux.net;ify.com/post/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://www.lalinux.netlify.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Web Browser yang Cocok di Linux</title>
-      <link>http://www.lalinux.net;ify.com/post/browser-support-linux/</link>
+      <link>http://www.lalinux.netlify.com/post/browser-support-linux/</link>
       <pubDate>Sun, 09 Jun 2019 14:36:51 +0700</pubDate>
       
-      <guid>http://www.lalinux.net;ify.com/post/browser-support-linux/</guid>
+      <guid>http://www.lalinux.netlify.com/post/browser-support-linux/</guid>
       <description></description>
     </item><item>
       <title>Mempercantik Tampilan Xubuntu 18</title>
-      <link>http://www.lalinux.net;ify.com/post/mempercantik-tampilan-xubuntu-18.04/</link>
+      <link>http://www.lalinux.netlify.com/post/mempercantik-tampilan-xubuntu-18.04/</link>
       <pubDate>Sun, 09 Jun 2019 14:34:54 +0700</pubDate>
       
-      <guid>http://www.lalinux.net;ify.com/post/mempercantik-tampilan-xubuntu-18.04/</guid>
+      <guid>http://www.lalinux.netlify.com/post/mempercantik-tampilan-xubuntu-18.04/</guid>
       <description></description>
     </item><item>
       <title>Penjelasan Singkat Partisi Linux</title>
-      <link>http://www.lalinux.net;ify.com/post/penjelasan-singkat-partisi-linux/</link>
+      <link>http://www.lalinux.netlify.com/post/penjelasan-singkat-partisi-linux/</link>
       <pubDate>Sun, 09 Jun 2019 14:33:17 +0700</pubDate>
       
-      <guid>http://www.lalinux.net;ify.com/post/penjelasan-singkat-partisi-linux/</guid>
+      <guid>http://www.lalinux.netlify.com/post/penjelasan-singkat-partisi-linux/</guid>
       <description></description>
     </item><item>
       <title>Rekomendasi File Manager di Linux</title>
-      <link>http://www.lalinux.net;ify.com/post/file-manager/</link>
+      <link>http://www.lalinux.netlify.com/post/file-manager/</link>
       <pubDate>Sun, 09 Jun 2019 14:32:23 +0700</pubDate>
       
-      <guid>http://www.lalinux.net;ify.com/post/file-manager/</guid>
+      <guid>http://www.lalinux.netlify.com/post/file-manager/</guid>
       <description></description>
     </item><item>
       <title>Review Xubuntu 18</title>
-      <link>http://www.lalinux.net;ify.com/post/xubuntu-18.04/</link>
+      <link>http://www.lalinux.netlify.com/post/xubuntu-18.04/</link>
       <pubDate>Sun, 09 Jun 2019 14:31:53 +0700</pubDate>
       
-      <guid>http://www.lalinux.net;ify.com/post/xubuntu-18.04/</guid>
+      <guid>http://www.lalinux.netlify.com/post/xubuntu-18.04/</guid>
       <description></description>
     </item>
   </channel>

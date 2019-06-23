@@ -3,247 +3,247 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/linux-untuk-pemula/</loc>
+    <loc>http://www.lalinux.netlify.com/post/linux-untuk-pemula/</loc>
     <lastmod>2019-06-18T22:00:54+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/</loc>
+    <loc>http://www.lalinux.netlify.com/post/</loc>
     <lastmod>2019-06-18T22:00:54+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/5-distro-terbaik/</loc>
+    <loc>http://www.lalinux.netlify.com/post/5-distro-terbaik/</loc>
     <lastmod>2019-06-18T22:00:18+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/installer/</loc>
+    <loc>http://www.lalinux.netlify.com/post/installer/</loc>
     <lastmod>2019-06-18T21:59:35+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/categories/</loc>
+    <loc>http://www.lalinux.netlify.com/categories/</loc>
     <lastmod>2019-06-16T15:45:46+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/dhcp-dan-dns-server-pada-debian/</loc>
+    <loc>http://www.lalinux.netlify.com/post/dhcp-dan-dns-server-pada-debian/</loc>
     <lastmod>2019-06-16T15:45:46+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/categories/debian/</loc>
-    <lastmod>2019-06-16T15:45:46+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.lalinux.net;ify.com/categories/server/</loc>
+    <loc>http://www.lalinux.netlify.com/categories/debian/</loc>
     <lastmod>2019-06-16T15:45:46+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/categories/tkj/</loc>
+    <loc>http://www.lalinux.netlify.com/categories/server/</loc>
     <lastmod>2019-06-16T15:45:46+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/alternatif/</loc>
+    <loc>http://www.lalinux.netlify.com/categories/tkj/</loc>
+    <lastmod>2019-06-16T15:45:46+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.lalinux.netlify.com/post/alternatif/</loc>
     <lastmod>2019-06-13T07:58:48+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/ukuu/</loc>
+    <loc>http://www.lalinux.netlify.com/post/ukuu/</loc>
     <lastmod>2019-06-13T07:48:48+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/vectr/</loc>
+    <loc>http://www.lalinux.netlify.com/post/vectr/</loc>
     <lastmod>2019-06-12T22:19:48+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/krita/</loc>
+    <loc>http://www.lalinux.netlify.com/post/krita/</loc>
     <lastmod>2019-06-12T22:19:42+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/pasang-installer-di-ubuntu-18.04-ke-atas/</loc>
+    <loc>http://www.lalinux.netlify.com/post/pasang-installer-di-ubuntu-18.04-ke-atas/</loc>
     <lastmod>2019-06-12T22:19:23+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/snap-store/</loc>
+    <loc>http://www.lalinux.netlify.com/post/snap-store/</loc>
     <lastmod>2019-06-12T22:18:16+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/download-manager/</loc>
+    <loc>http://www.lalinux.netlify.com/post/download-manager/</loc>
     <lastmod>2019-06-11T22:11:13+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/tilix/</loc>
+    <loc>http://www.lalinux.netlify.com/post/tilix/</loc>
     <lastmod>2019-06-11T22:10:51+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/material-design/</loc>
+    <loc>http://www.lalinux.netlify.com/post/material-design/</loc>
     <lastmod>2019-06-11T22:10:36+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/messenger/</loc>
+    <loc>http://www.lalinux.netlify.com/post/messenger/</loc>
     <lastmod>2019-06-11T22:10:03+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/telegram/</loc>
+    <loc>http://www.lalinux.netlify.com/post/telegram/</loc>
     <lastmod>2019-06-11T22:09:51+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/xubuntu-19.10/</loc>
+    <loc>http://www.lalinux.netlify.com/post/xubuntu-19.10/</loc>
     <lastmod>2019-06-11T22:09:07+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/kodi/</loc>
+    <loc>http://www.lalinux.netlify.com/post/kodi/</loc>
     <lastmod>2019-06-11T22:08:56+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/font-coding/</loc>
+    <loc>http://www.lalinux.netlify.com/post/font-coding/</loc>
     <lastmod>2019-06-11T22:08:22+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/aplikasi-yang-bikin-kita-makin-produktif/</loc>
+    <loc>http://www.lalinux.netlify.com/post/aplikasi-yang-bikin-kita-makin-produktif/</loc>
     <lastmod>2019-06-11T22:07:59+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/bluelight-filter/</loc>
+    <loc>http://www.lalinux.netlify.com/post/bluelight-filter/</loc>
     <lastmod>2019-06-11T22:07:28+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/sublime-text/</loc>
+    <loc>http://www.lalinux.netlify.com/post/sublime-text/</loc>
     <lastmod>2019-06-11T21:55:38+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/video-lpayer/</loc>
+    <loc>http://www.lalinux.netlify.com/post/video-lpayer/</loc>
     <lastmod>2019-06-10T13:08:48+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/instal-aplikasi-via-snap/</loc>
+    <loc>http://www.lalinux.netlify.com/post/instal-aplikasi-via-snap/</loc>
     <lastmod>2019-06-10T11:55:18+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/vscode/</loc>
+    <loc>http://www.lalinux.netlify.com/post/vscode/</loc>
     <lastmod>2019-06-10T11:54:07+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/perintah-linux-yang-patut-diingat/</loc>
+    <loc>http://www.lalinux.netlify.com/post/perintah-linux-yang-patut-diingat/</loc>
     <lastmod>2019-06-10T11:41:59+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/browser-support-linux/</loc>
+    <loc>http://www.lalinux.netlify.com/post/browser-support-linux/</loc>
     <lastmod>2019-06-09T14:36:51+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/mempercantik-tampilan-xubuntu-18.04/</loc>
+    <loc>http://www.lalinux.netlify.com/post/mempercantik-tampilan-xubuntu-18.04/</loc>
     <lastmod>2019-06-09T14:34:54+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/penjelasan-singkat-partisi-linux/</loc>
+    <loc>http://www.lalinux.netlify.com/post/penjelasan-singkat-partisi-linux/</loc>
     <lastmod>2019-06-09T14:33:17+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/file-manager/</loc>
+    <loc>http://www.lalinux.netlify.com/post/file-manager/</loc>
     <lastmod>2019-06-09T14:32:23+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/xubuntu-18.04/</loc>
+    <loc>http://www.lalinux.netlify.com/post/xubuntu-18.04/</loc>
     <lastmod>2019-06-09T14:31:53+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/window-manager-linux/</loc>
+    <loc>http://www.lalinux.netlify.com/post/window-manager-linux/</loc>
     <lastmod>2019-06-09T11:43:25+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/virtualbox/</loc>
+    <loc>http://www.lalinux.netlify.com/post/virtualbox/</loc>
     <lastmod>2019-06-08T22:40:53+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/chrome/</loc>
+    <loc>http://www.lalinux.netlify.com/post/chrome/</loc>
     <lastmod>2019-06-08T22:33:54+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/yaru-theme/</loc>
+    <loc>http://www.lalinux.netlify.com/post/yaru-theme/</loc>
     <lastmod>2019-06-08T22:30:44+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/beberapa-desktop-env-yang-patut-dicoba-/</loc>
+    <loc>http://www.lalinux.netlify.com/post/beberapa-desktop-env-yang-patut-dicoba-/</loc>
     <lastmod>2019-06-08T22:04:48+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/kazam/</loc>
+    <loc>http://www.lalinux.netlify.com/post/kazam/</loc>
     <lastmod>2019-06-08T21:59:04+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/spotify/</loc>
+    <loc>http://www.lalinux.netlify.com/post/spotify/</loc>
     <lastmod>2019-06-08T21:53:19+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/clementine/</loc>
+    <loc>http://www.lalinux.netlify.com/post/clementine/</loc>
     <lastmod>2019-06-08T21:28:10+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/wps-office/</loc>
+    <loc>http://www.lalinux.netlify.com/post/wps-office/</loc>
     <lastmod>2019-06-08T21:17:02+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/post/instalasi-xubuntu/</loc>
+    <loc>http://www.lalinux.netlify.com/post/instalasi-xubuntu/</loc>
     <lastmod>2019-05-12T12:56:58+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/</loc>
+    <loc>http://www.lalinux.netlify.com/</loc>
     <lastmod>2018-04-27T09:46:15-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/about/</loc>
+    <loc>http://www.lalinux.netlify.com/about/</loc>
     <lastmod>2017-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.lalinux.net;ify.com/tags/</loc>
+    <loc>http://www.lalinux.netlify.com/tags/</loc>
     <priority>0</priority>
   </url>
   

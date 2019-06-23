@@ -1,47 +1,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts - Home - lalinux</title>
-    <link>http://www.lalinux.net;ify.com/post/</link>
+    <link>http://www.lalinux.netlify.com/post/</link>
     <description>Recent content in Posts on Home - lalinux</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 18 Jun 2019 22:00:54 +0700</lastBuildDate>
     
-        <atom:link href="http://www.lalinux.net;ify.com/post/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://www.lalinux.netlify.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Review Xubuntu 19</title>
-      <link>http://www.lalinux.net;ify.com/post/xubuntu-19.10/</link>
+      <link>http://www.lalinux.netlify.com/post/xubuntu-19.10/</link>
       <pubDate>Tue, 11 Jun 2019 22:09:07 +0700</pubDate>
       
-      <guid>http://www.lalinux.net;ify.com/post/xubuntu-19.10/</guid>
+      <guid>http://www.lalinux.netlify.com/post/xubuntu-19.10/</guid>
       <description></description>
     </item><item>
       <title>Kodi, Multimedia Player yang KEREN!</title>
-      <link>http://www.lalinux.net;ify.com/post/kodi/</link>
+      <link>http://www.lalinux.netlify.com/post/kodi/</link>
       <pubDate>Tue, 11 Jun 2019 22:08:56 +0700</pubDate>
       
-      <guid>http://www.lalinux.net;ify.com/post/kodi/</guid>
+      <guid>http://www.lalinux.netlify.com/post/kodi/</guid>
       <description></description>
     </item><item>
       <title>Font Coding</title>
-      <link>http://www.lalinux.net;ify.com/post/font-coding/</link>
+      <link>http://www.lalinux.netlify.com/post/font-coding/</link>
       <pubDate>Tue, 11 Jun 2019 22:08:22 +0700</pubDate>
       
-      <guid>http://www.lalinux.net;ify.com/post/font-coding/</guid>
+      <guid>http://www.lalinux.netlify.com/post/font-coding/</guid>
       <description></description>
     </item><item>
       <title>Aplikasi Yang Bikin Kita Makin Produktif</title>
-      <link>http://www.lalinux.net;ify.com/post/aplikasi-yang-bikin-kita-makin-produktif/</link>
+      <link>http://www.lalinux.netlify.com/post/aplikasi-yang-bikin-kita-makin-produktif/</link>
       <pubDate>Tue, 11 Jun 2019 22:07:59 +0700</pubDate>
       
-      <guid>http://www.lalinux.net;ify.com/post/aplikasi-yang-bikin-kita-makin-produktif/</guid>
+      <guid>http://www.lalinux.netlify.com/post/aplikasi-yang-bikin-kita-makin-produktif/</guid>
       <description></description>
     </item><item>
       <title>Bluelight Filter</title>
-      <link>http://www.lalinux.net;ify.com/post/bluelight-filter/</link>
+      <link>http://www.lalinux.netlify.com/post/bluelight-filter/</link>
       <pubDate>Tue, 11 Jun 2019 22:07:28 +0700</pubDate>
       
-      <guid>http://www.lalinux.net;ify.com/post/bluelight-filter/</guid>
+      <guid>http://www.lalinux.netlify.com/post/bluelight-filter/</guid>
       <description></description>
     </item>
   </channel>
