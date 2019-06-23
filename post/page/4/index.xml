@@ -4,44 +4,44 @@
     <link>http://example.org/post/</link>
     <description>Recent content in Posts on Home - lalinux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 13 Jun 2019 07:58:48 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2019 22:00:54 +0700</lastBuildDate>
     
         <atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Review Xubuntu 19</title>
+      <link>http://example.org/post/xubuntu-19.10/</link>
+      <pubDate>Tue, 11 Jun 2019 22:09:07 +0700</pubDate>
+      
+      <guid>http://example.org/post/xubuntu-19.10/</guid>
+      <description></description>
+    </item><item>
+      <title>Kodi, Multimedia Player yang KEREN!</title>
+      <link>http://example.org/post/kodi/</link>
+      <pubDate>Tue, 11 Jun 2019 22:08:56 +0700</pubDate>
+      
+      <guid>http://example.org/post/kodi/</guid>
+      <description></description>
+    </item><item>
+      <title>Font Coding</title>
+      <link>http://example.org/post/font-coding/</link>
+      <pubDate>Tue, 11 Jun 2019 22:08:22 +0700</pubDate>
+      
+      <guid>http://example.org/post/font-coding/</guid>
+      <description></description>
+    </item><item>
+      <title>Aplikasi Yang Bikin Kita Makin Produktif</title>
+      <link>http://example.org/post/aplikasi-yang-bikin-kita-makin-produktif/</link>
+      <pubDate>Tue, 11 Jun 2019 22:07:59 +0700</pubDate>
+      
+      <guid>http://example.org/post/aplikasi-yang-bikin-kita-makin-produktif/</guid>
+      <description></description>
+    </item><item>
       <title>Bluelight Filter</title>
       <link>http://example.org/post/bluelight-filter/</link>
       <pubDate>Tue, 11 Jun 2019 22:07:28 +0700</pubDate>
       
       <guid>http://example.org/post/bluelight-filter/</guid>
-      <description></description>
-    </item><item>
-      <title>Kernel Manager</title>
-      <link>http://example.org/post/kernel-manager/</link>
-      <pubDate>Tue, 11 Jun 2019 22:07:14 +0700</pubDate>
-      
-      <guid>http://example.org/post/kernel-manager/</guid>
-      <description></description>
-    </item><item>
-      <title>Sublime Text</title>
-      <link>http://example.org/post/sublime-text/</link>
-      <pubDate>Tue, 11 Jun 2019 21:55:38 +0700</pubDate>
-      
-      <guid>http://example.org/post/sublime-text/</guid>
-      <description></description>
-    </item><item>
-      <title>Video Player Linux</title>
-      <link>http://example.org/post/video-player-linux/</link>
-      <pubDate>Mon, 10 Jun 2019 13:08:48 +0700</pubDate>
-      
-      <guid>http://example.org/post/video-player-linux/</guid>
-      <description></description>
-    </item><item>
-      <title>Instal Aplikasi via Snap</title>
-      <link>http://example.org/post/instal-aplikasi-via-snap/</link>
-      <pubDate>Mon, 10 Jun 2019 11:55:18 +0700</pubDate>
-      
-      <guid>http://example.org/post/instal-aplikasi-via-snap/</guid>
       <description></description>
     </item>
   </channel>

@@ -9,39 +9,39 @@
         <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Download Manager</title>
+      <link>http://example.org/post/download-manager/</link>
+      <pubDate>Tue, 11 Jun 2019 22:11:13 +0700</pubDate>
+      
+      <guid>http://example.org/post/download-manager/</guid>
+      <description></description>
+    </item><item>
+      <title>Tilix, Terminal Emulator Intuitif</title>
+      <link>http://example.org/post/tilix/</link>
+      <pubDate>Tue, 11 Jun 2019 22:10:51 +0700</pubDate>
+      
+      <guid>http://example.org/post/tilix/</guid>
+      <description></description>
+    </item><item>
+      <title>Material Design</title>
+      <link>http://example.org/post/material-design/</link>
+      <pubDate>Tue, 11 Jun 2019 22:10:36 +0700</pubDate>
+      
+      <guid>http://example.org/post/material-design/</guid>
+      <description></description>
+    </item><item>
+      <title>Messenger</title>
+      <link>http://example.org/post/messenger/</link>
+      <pubDate>Tue, 11 Jun 2019 22:10:03 +0700</pubDate>
+      
+      <guid>http://example.org/post/messenger/</guid>
+      <description></description>
+    </item><item>
       <title>Telegram</title>
       <link>http://example.org/post/telegram/</link>
       <pubDate>Tue, 11 Jun 2019 22:09:51 +0700</pubDate>
       
       <guid>http://example.org/post/telegram/</guid>
-      <description></description>
-    </item><item>
-      <title>Review Xubuntu 19</title>
-      <link>http://example.org/post/review-xubuntu-19.10/</link>
-      <pubDate>Tue, 11 Jun 2019 22:09:07 +0700</pubDate>
-      
-      <guid>http://example.org/post/review-xubuntu-19.10/</guid>
-      <description></description>
-    </item><item>
-      <title>Review Kodi</title>
-      <link>http://example.org/post/review-kodi/</link>
-      <pubDate>Tue, 11 Jun 2019 22:08:56 +0700</pubDate>
-      
-      <guid>http://example.org/post/review-kodi/</guid>
-      <description></description>
-    </item><item>
-      <title>Font Coding</title>
-      <link>http://example.org/post/font-coding/</link>
-      <pubDate>Tue, 11 Jun 2019 22:08:22 +0700</pubDate>
-      
-      <guid>http://example.org/post/font-coding/</guid>
-      <description></description>
-    </item><item>
-      <title>Aplikasi Yang Bikin Kita Makin Produktif</title>
-      <link>http://example.org/post/aplikasi-yang-bikin-kita-makin-produktif/</link>
-      <pubDate>Tue, 11 Jun 2019 22:07:59 +0700</pubDate>
-      
-      <guid>http://example.org/post/aplikasi-yang-bikin-kita-makin-produktif/</guid>
       <description></description>
     </item>
   </channel>

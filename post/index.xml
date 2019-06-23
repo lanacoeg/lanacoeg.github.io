@@ -4,44 +4,44 @@
     <link>http://example.org/post/</link>
     <description>Recent content in Posts on Home - lalinux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 13 Jun 2019 07:58:48 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2019 22:00:54 +0700</lastBuildDate>
     
         <atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Linux Untuk Pemula</title>
+      <link>http://example.org/post/linux-untuk-pemula/</link>
+      <pubDate>Tue, 18 Jun 2019 22:00:54 +0700</pubDate>
+      
+      <guid>http://example.org/post/linux-untuk-pemula/</guid>
+      <description></description>
+    </item><item>
+      <title>5 Distro Terbaik</title>
+      <link>http://example.org/post/5-distro-terbaik/</link>
+      <pubDate>Tue, 18 Jun 2019 22:00:18 +0700</pubDate>
+      
+      <guid>http://example.org/post/5-distro-terbaik/</guid>
+      <description></description>
+    </item><item>
+      <title>Installer</title>
+      <link>http://example.org/post/installer/</link>
+      <pubDate>Tue, 18 Jun 2019 21:59:35 +0700</pubDate>
+      
+      <guid>http://example.org/post/installer/</guid>
+      <description></description>
+    </item><item>
+      <title>DHCP Dan DNS Server Pada Debian</title>
+      <link>http://example.org/post/dhcp-dan-dns-server-pada-debian/</link>
+      <pubDate>Sun, 16 Jun 2019 15:45:46 +0700</pubDate>
+      
+      <guid>http://example.org/post/dhcp-dan-dns-server-pada-debian/</guid>
+      <description></description>
+    </item><item>
       <title>Alternatif</title>
       <link>http://example.org/post/alternatif/</link>
       <pubDate>Thu, 13 Jun 2019 07:58:48 +0700</pubDate>
       
       <guid>http://example.org/post/alternatif/</guid>
-      <description></description>
-    </item><item>
-      <title>Ukuu</title>
-      <link>http://example.org/post/ukuu/</link>
-      <pubDate>Thu, 13 Jun 2019 07:48:48 +0700</pubDate>
-      
-      <guid>http://example.org/post/ukuu/</guid>
-      <description></description>
-    </item><item>
-      <title>Vectr</title>
-      <link>http://example.org/post/vectr/</link>
-      <pubDate>Wed, 12 Jun 2019 22:19:48 +0700</pubDate>
-      
-      <guid>http://example.org/post/vectr/</guid>
-      <description></description>
-    </item><item>
-      <title>Krita</title>
-      <link>http://example.org/post/krita/</link>
-      <pubDate>Wed, 12 Jun 2019 22:19:42 +0700</pubDate>
-      
-      <guid>http://example.org/post/krita/</guid>
-      <description></description>
-    </item><item>
-      <title>Pasang Installer Di Ubuntu 18</title>
-      <link>http://example.org/post/pasang-installer-di-ubuntu-18.04-ke-atas/</link>
-      <pubDate>Wed, 12 Jun 2019 22:19:23 +0700</pubDate>
-      
-      <guid>http://example.org/post/pasang-installer-di-ubuntu-18.04-ke-atas/</guid>
       <description></description>
     </item>
   </channel>
